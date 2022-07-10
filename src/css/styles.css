@@ -58,6 +58,7 @@ display: flex;
 
 .search-button:hover {
 	background-color: #dadada;
+	cursor: pointer;
 }
 
 .gallery {
